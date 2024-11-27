@@ -1,0 +1,32 @@
+[workspace]
+
+resolver = "2"
+
+members = [
+    "crates/relayer",
+    "crates/relayer-types",
+    "crates/relayer-cli",
+    "crates/relayer-rest",
+    "crates/telemetry",
+    "crates/chain-registry",
+    "tools/integration-test",
+    "tools/test-framework",
+]
+
+exclude = [
+    "tools/check-guide",
+    "tools/query-events",
+]
+
+[profile.release]
+overflow-checks = true
+
+[patch.crates-io]
+# ibc-proto                        = { git = "https://github.com/cosmos/ibc-proto-rs.git",       branch = "main" }
+# tendermint                       = { git = "https://github.com/informalsystems/tendermint-rs.git", branch = "romac/new-misbehavior-detector" }
+# tendermint-rpc                   = { git = "https://github.com/informalsystems/tendermint-rs.git", branch = "romac/new-misbehavior-detector" }
+# tendermint-proto                 = { git = "https://github.com/informalsystems/tendermint-rs.git", branch = "romac/new-misbehavior-detector" }
+# tendermint-light-client          = { git = "https://github.com/informalsystems/tendermint-rs.git", branch = "romac/new-misbehavior-detector" }
+# tendermint-light-client-verifier = { git = "https://github.com/informalsystems/tendermint-rs.git", branch = "romac/new-misbehavior-detector" }
+# tendermint-light-client-detector = { git = "https://github.com/informalsystems/tendermint-rs.git", branch = "romac/new-misbehavior-detector" }
+# tendermint-testgen               = { git = "https://github.com/informalsystems/tendermint-rs.git", branch = "romac/new-misbehavior-detector" }

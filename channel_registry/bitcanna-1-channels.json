@@ -1,0 +1,332 @@
+{
+  "channels": [
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "bostrom"
+      },
+      "source": {
+        "channel_id": "channel-25",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-44",
+        "connection_id": "connection-41"
+      },
+      "target": {
+        "channel_id": "channel-22",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-46",
+        "connection_id": "connection-25"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "cheqd-mainnet-1"
+      },
+      "source": {
+        "channel_id": "channel-26",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-45",
+        "connection_id": "connection-42"
+      },
+      "target": {
+        "channel_id": "channel-16",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-35",
+        "connection_id": "connection-26"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "crescent-1"
+      },
+      "source": {
+        "channel_id": "channel-27",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-47",
+        "connection_id": "connection-43"
+      },
+      "target": {
+        "channel_id": "channel-47",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-83",
+        "connection_id": "connection-74"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "injective-1"
+      },
+      "source": {
+        "channel_id": "channel-28",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-50",
+        "connection_id": "connection-46"
+      },
+      "target": {
+        "channel_id": "channel-123",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-172",
+        "connection_id": "connection-158"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "jackal-1"
+      },
+      "source": {
+        "channel_id": "channel-29",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-53",
+        "connection_id": "connection-48"
+      },
+      "target": {
+        "channel_id": "channel-9",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-14",
+        "connection_id": "connection-10"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "kava_2222-10"
+      },
+      "source": {
+        "channel_id": "channel-30",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-54",
+        "connection_id": "connection-49"
+      },
+      "target": {
+        "channel_id": "channel-95",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-79",
+        "connection_id": "connection-124"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "kaiyo-1"
+      },
+      "source": {
+        "channel_id": "channel-31",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-56",
+        "connection_id": "connection-51"
+      },
+      "target": {
+        "channel_id": "channel-78",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-117",
+        "connection_id": "connection-85"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "mars-1"
+      },
+      "source": {
+        "channel_id": "channel-32",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-58",
+        "connection_id": "connection-53"
+      },
+      "target": {
+        "channel_id": "channel-12",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-21",
+        "connection_id": "connection-17"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "migaloo-1"
+      },
+      "source": {
+        "channel_id": "channel-33",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-59",
+        "connection_id": "connection-54"
+      },
+      "target": {
+        "channel_id": "channel-29",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-57",
+        "connection_id": "connection-46"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "odin-mainnet-freya"
+      },
+      "source": {
+        "channel_id": "channel-34",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-60",
+        "connection_id": "connection-55"
+      },
+      "target": {
+        "channel_id": "channel-33",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-59",
+        "connection_id": "connection-47"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "core-1"
+      },
+      "source": {
+        "channel_id": "channel-35",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-61",
+        "connection_id": "connection-56"
+      },
+      "target": {
+        "channel_id": "channel-91",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-113",
+        "connection_id": "connection-154"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "quicksilver-2"
+      },
+      "source": {
+        "channel_id": "channel-36",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-62",
+        "connection_id": "connection-57"
+      },
+      "target": {
+        "channel_id": "channel-65",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-34",
+        "connection_id": "connection-22"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "regen-1"
+      },
+      "source": {
+        "channel_id": "channel-37",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-63",
+        "connection_id": "connection-58"
+      },
+      "target": {
+        "channel_id": "channel-115",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-129",
+        "connection_id": "connection-112"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "sommelier-3"
+      },
+      "source": {
+        "channel_id": "channel-38",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-65",
+        "connection_id": "connection-60"
+      },
+      "target": {
+        "channel_id": "channel-13",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-21",
+        "connection_id": "connection-22"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "stargaze-1"
+      },
+      "source": {
+        "channel_id": "channel-39",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-66",
+        "connection_id": "connection-61"
+      },
+      "target": {
+        "channel_id": "channel-153",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-246",
+        "connection_id": "connection-179"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "stride-1"
+      },
+      "source": {
+        "channel_id": "channel-40",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-68",
+        "connection_id": "connection-63"
+      },
+      "target": {
+        "channel_id": "channel-96",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-91",
+        "connection_id": "connection-79"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "teritori-1"
+      },
+      "source": {
+        "channel_id": "channel-41",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-69",
+        "connection_id": "connection-64"
+      },
+      "target": {
+        "channel_id": "channel-20",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-48",
+        "connection_id": "connection-25"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "umee-1"
+      },
+      "source": {
+        "channel_id": "channel-42",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-71",
+        "connection_id": "connection-66"
+      },
+      "target": {
+        "channel_id": "channel-72",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-191",
+        "connection_id": "connection-132"
+      }
+    }
+  ],
+  "chain": {
+    "chain_name": "",
+    "chain_id": "bitcanna-1"
+  }
+}

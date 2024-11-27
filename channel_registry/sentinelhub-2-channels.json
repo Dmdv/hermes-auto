@@ -1,0 +1,62 @@
+{
+  "channels": [
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "kichain-2"
+      },
+      "source": {
+        "channel_id": "channel-81",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-164",
+        "connection_id": "connection-133"
+      },
+      "target": {
+        "channel_id": "channel-31",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-73",
+        "connection_id": "connection-52"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "sommelier-3"
+      },
+      "source": {
+        "channel_id": "channel-82",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-168",
+        "connection_id": "connection-136"
+      },
+      "target": {
+        "channel_id": "channel-26",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-35",
+        "connection_id": "connection-39"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "stride-1"
+      },
+      "source": {
+        "channel_id": "channel-83",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-170",
+        "connection_id": "connection-138"
+      },
+      "target": {
+        "channel_id": "channel-107",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-102",
+        "connection_id": "connection-91"
+      }
+    }
+  ],
+  "chain": {
+    "chain_name": "",
+    "chain_id": "sentinelhub-2"
+  }
+}

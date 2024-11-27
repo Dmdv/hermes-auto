@@ -1,0 +1,26 @@
+{
+  "channels": [
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "secret-4"
+      },
+      "source": {
+        "channel_id": "channel-30",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-63",
+        "connection_id": "connection-46"
+      },
+      "target": {
+        "channel_id": "channel-73",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-147",
+        "connection_id": "connection-107"
+      }
+    }
+  ],
+  "chain": {
+    "chain_name": "",
+    "chain_id": "kichain-2"
+  }
+}

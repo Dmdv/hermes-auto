@@ -1,0 +1,80 @@
+{
+  "channels": [
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "arkh"
+      },
+      "source": {
+        "channel_id": "channel-577",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-1129",
+        "connection_id": "connection-817"
+      },
+      "target": {
+        "channel_id": "channel-59",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-89",
+        "connection_id": "connection-79"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "chihuahua-1"
+      },
+      "source": {
+        "channel_id": "channel-578",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-1130",
+        "connection_id": "connection-818"
+      },
+      "target": {
+        "channel_id": "channel-59",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-166",
+        "connection_id": "connection-113"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "mars-1"
+      },
+      "source": {
+        "channel_id": "channel-579",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-1131",
+        "connection_id": "connection-819"
+      },
+      "target": {
+        "channel_id": "channel-15",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-25",
+        "connection_id": "connection-20"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "odin-mainnet-freya"
+      },
+      "source": {
+        "channel_id": "channel-580",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-1133",
+        "connection_id": "connection-820"
+      },
+      "target": {
+        "channel_id": "channel-38",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-67",
+        "connection_id": "connection-52"
+      }
+    }
+  ],
+  "chain": {
+    "chain_name": "",
+    "chain_id": "cosmoshub-4"
+  }
+}

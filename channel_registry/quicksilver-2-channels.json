@@ -1,0 +1,62 @@
+{
+  "channels": [
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "agoric-3"
+      },
+      "source": {
+        "channel_id": "channel-76",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-46",
+        "connection_id": "connection-37"
+      },
+      "target": {
+        "channel_id": "channel-47",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-61",
+        "connection_id": "connection-56"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "odin-mainnet-freya"
+      },
+      "source": {
+        "channel_id": "channel-78",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-54",
+        "connection_id": "connection-40"
+      },
+      "target": {
+        "channel_id": "channel-59",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-102",
+        "connection_id": "connection-79"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "sentinelhub-2"
+      },
+      "source": {
+        "channel_id": "channel-79",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-56",
+        "connection_id": "connection-41"
+      },
+      "target": {
+        "channel_id": "channel-80",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-156",
+        "connection_id": "connection-129"
+      }
+    }
+  ],
+  "chain": {
+    "chain_name": "",
+    "chain_id": "quicksilver-2"
+  }
+}

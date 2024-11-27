@@ -1,0 +1,134 @@
+{
+  "channels": [
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "agoric-3"
+      },
+      "source": {
+        "channel_id": "channel-110",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-105",
+        "connection_id": "connection-94"
+      },
+      "target": {
+        "channel_id": "channel-48",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-62",
+        "connection_id": "connection-57"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "akashnet-2"
+      },
+      "source": {
+        "channel_id": "channel-111",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-106",
+        "connection_id": "connection-95"
+      },
+      "target": {
+        "channel_id": "channel-106",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-164",
+        "connection_id": "connection-145"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "crypto-org-chain-mainnet-1"
+      },
+      "source": {
+        "channel_id": "channel-112",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-108",
+        "connection_id": "connection-96"
+      },
+      "target": {
+        "channel_id": "channel-86",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-1194",
+        "connection_id": "connection-323"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "desmos-mainnet"
+      },
+      "source": {
+        "channel_id": "channel-113",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-109",
+        "connection_id": "connection-97"
+      },
+      "target": {
+        "channel_id": "channel-28",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-72",
+        "connection_id": "connection-40"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "sommelier-3"
+      },
+      "source": {
+        "channel_id": "channel-115",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-118",
+        "connection_id": "connection-101"
+      },
+      "target": {
+        "channel_id": "channel-34",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-51",
+        "connection_id": "connection-53"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "iov-mainnet-ibc"
+      },
+      "source": {
+        "channel_id": "channel-116",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-119",
+        "connection_id": "connection-102"
+      },
+      "target": {
+        "channel_id": "channel-50",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-100",
+        "connection_id": "connection-78"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "teritori-1"
+      },
+      "source": {
+        "channel_id": "channel-117",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-120",
+        "connection_id": "connection-103"
+      },
+      "target": {
+        "channel_id": "channel-39",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-72",
+        "connection_id": "connection-51"
+      }
+    }
+  ],
+  "chain": {
+    "chain_name": "",
+    "chain_id": "stride-1"
+  }
+}

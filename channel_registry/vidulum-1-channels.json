@@ -1,0 +1,26 @@
+{
+  "channels": [
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "kichain-2"
+      },
+      "source": {
+        "channel_id": "channel-22",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-40",
+        "connection_id": "connection-42"
+      },
+      "target": {
+        "channel_id": "channel-32",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-80",
+        "connection_id": "connection-59"
+      }
+    }
+  ],
+  "chain": {
+    "chain_name": "",
+    "chain_id": "vidulum-1"
+  }
+}

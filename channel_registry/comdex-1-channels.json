@@ -1,0 +1,44 @@
+{
+  "channels": [
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "iov-mainnet-ibc"
+      },
+      "source": {
+        "channel_id": "channel-69",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-167",
+        "connection_id": "connection-78"
+      },
+      "target": {
+        "channel_id": "channel-34",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-69",
+        "connection_id": "connection-53"
+      }
+    },
+    {
+      "chain": {
+        "chain_name": "",
+        "chain_id": "teritori-1"
+      },
+      "source": {
+        "channel_id": "channel-70",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-168",
+        "connection_id": "connection-79"
+      },
+      "target": {
+        "channel_id": "channel-24",
+        "port_id": "transfer",
+        "client_id": "07-tendermint-52",
+        "connection_id": "connection-29"
+      }
+    }
+  ],
+  "chain": {
+    "chain_name": "",
+    "chain_id": "comdex-1"
+  }
+}
